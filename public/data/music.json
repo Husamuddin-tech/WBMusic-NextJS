@@ -1,0 +1,130 @@
+{
+  "musicLibrary": [
+    {
+      "id": 1,
+      "title": "Blinding Lights",
+      "slug": "blinding-lights",
+      "artist": "The Weeknd",
+      "album": "After Hours",
+      "genre": "Pop",
+      "year": 2020,
+      "duration": "3:20",
+      "coverUrl": "https://images.genius.com/abb1ae358cc3cdda3195a8228143446a.770x770x1.jpg",
+      "audioUrl": "https://example.com/audio/blinding_lights.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Shape of You",
+      "slug": "shape-of-you",
+      "artist": "Ed Sheeran",
+      "album": "Divide",
+      "genre": "Pop",
+      "year": 2017,
+      "duration": "4:24",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-HdP2hgHMtaycpDcx-BDjB0A-t1080x1080.jpg",
+      "audioUrl": "https://example.com/audio/shape_of_you.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Bohemian Rhapsody",
+      "slug": "bohemian-rhapsody",
+      "artist": "Queen",
+      "album": "A Night at the Opera",
+      "genre": "Rock",
+      "year": 1975,
+      "duration": "5:55",
+      "coverUrl": "https://i1.sndcdn.com/artworks-000116795481-6fmihq-t1080x1080.jpg",
+      "audioUrl": "https://example.com/audio/bohemian_rhapsody.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Levitating",
+      "slug": "levitating",
+      "artist": "Dua Lipa",
+      "album": "Future Nostalgia",
+      "genre": "Disco-Pop",
+      "year": 2020,
+      "duration": "3:23",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-xYdrshDn62EgE5oT-jaFZJQ-t500x500.jpg",
+      "audioUrl": "https://example.com/audio/levitating.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Smells Like Teen Spirit",
+      "slug": "smells-like-teen-spirit",
+      "artist": "Nirvana",
+      "album": "Nevermind",
+      "genre": "Grunge",
+      "year": 1991,
+      "duration": "5:01",
+      "coverUrl": "https://i1.sndcdn.com/artworks-2fReKzWR7mCHC8Ff-zFCnsw-t1080x1080.jpg",
+      "audioUrl": "https://example.com/audio/smells_like_teen_spirit.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Uptown Funk",
+      "slug": "uptown-funk",
+      "artist": "Mark Ronson ft. Bruno Mars",
+      "album": "Uptown Special",
+      "genre": "Funk",
+      "year": 2014,
+      "duration": "4:31",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-000119551495-fox6b4-t500x500.jpg",
+      "audioUrl": "https://example.com/audio/uptown_funk.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Hotel California",
+      "slug": "hotel-california",
+      "artist": "Eagles",
+      "album": "Hotel California",
+      "genre": "Classic Rock",
+      "year": 1976,
+      "duration": "6:30",
+      "coverUrl": "https://i1.sndcdn.com/artworks-000104766197-p22mzn-t500x500.jpg",
+      "audioUrl": "https://example.com/audio/hotel_california.mp3"
+    },
+    {
+      "id": 8,
+      "title": "Lose Yourself",
+      "slug": "lose-yourself",
+      "artist": "Eminem",
+      "album": "8 Mile",
+      "genre": "Hip-Hop",
+      "year": 2002,
+      "duration": "5:26",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-COak4QGUrdyHTx1q-8t9c1g-t500x500.jpg",
+      "audioUrl": "https://example.com/audio/lose_yourself.mp3"
+    },
+    {
+      "id": 9,
+      "title": "Rolling in the Deep",
+      "slug": "rolling-in-the-deep",
+      "artist": "Adele",
+      "album": "21",
+      "genre": "Soul",
+      "year": 2010,
+      "duration": "3:48",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-000005715770-d1ir58-t500x500.jpg",
+      "audioUrl": "https://example.com/audio/rolling_in_the_deep.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Imagine",
+      "slug": "imagine",
+      "artist": "John Lennon",
+      "album": "Imagine",
+      "genre": "Soft Rock",
+      "year": 1971,
+      "duration": "3:07",
+      "isFeatured": true,
+      "coverUrl": "https://i1.sndcdn.com/artworks-000081989828-qzlmpu-t1080x1080.jpg",
+      "audioUrl": "https://example.com/audio/imagine.mp3"
+    }
+  ]
+}
